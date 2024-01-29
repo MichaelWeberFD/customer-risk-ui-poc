@@ -3,6 +3,7 @@
 
 
 ## Phase 0: Data Modeling
+- Develop a coprehensive query that contains all of the necessary info to power the UI for a single user id.
 - Develop a comprehensive dbt model that aligns and structures the necessary data points for the UI.
 - Define relationships, aggregations, and any transformations needed for effective querying.
 
